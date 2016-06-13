@@ -1,2 +1,2 @@
-# Coursera_excercises
-Coursera excersises
+# Coursera_exercises
+Coursera exersises
